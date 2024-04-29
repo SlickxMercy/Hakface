@@ -4,4 +4,5 @@ programa de hack facebook con generador de números aleatorios y contraseñas
 
 git clone https://github.com/SlickxMercy/Hakface
 cd SlickxMercy
-python Hakface.py
+
+python hacfaceb.py
